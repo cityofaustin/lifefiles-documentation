@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="687" height="212" viewBox="0 0 687 212">
+  <defs>
+    <filter id="Rectangle_1158" x="162.5" y="78.502" width="123" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1158-2" x="430.5" y="78.501" width="122" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3668" data-name="Group 3668" transform="translate(-1097 -8123)">
+    <rect id="Rectangle_137661" data-name="Rectangle 137661" width="687" height="212" transform="translate(1097 8123)" fill="#fff" opacity="0.2"/>
+    <g id="Group_3518" data-name="Group 3518" transform="translate(1210 8169.547)">
+      <g id="Group_3509" data-name="Group 3509" transform="translate(54.379 35.465)">
+        <g transform="matrix(1, 0, 0, 1, -167.38, -82.01)" filter="url(#Rectangle_1158)">
+          <rect id="Rectangle_1158-3" data-name="Rectangle 1158" width="114" height="60" rx="12" transform="translate(167 82)" fill="#4ba9d9"/>
+        </g>
+        <g id="Group_1593" data-name="Group 1593" transform="translate(14.745 10.432)">
+          <g id="Group_977" data-name="Group 977" transform="translate(0 0)">
+            <path id="Subtraction_21" data-name="Subtraction 21" d="M28.268,39.607H2.922a2.926,2.926,0,0,1-2.06-.849A2.882,2.882,0,0,1,0,36.716V2.891A2.882,2.882,0,0,1,.862.849,2.925,2.925,0,0,1,2.922,0H21.488V7.393A2.521,2.521,0,0,0,24.019,9.9H31.19V36.716a2.882,2.882,0,0,1-.862,2.042A2.926,2.926,0,0,1,28.268,39.607ZM30.18,8.461H24.017a1.073,1.073,0,0,1-1.078-1.068V1.066l7.24,7.395Z" transform="translate(0 0)" fill="#fff"/>
+            <g id="Group_1102" data-name="Group 1102" transform="translate(7.476 13.618)">
+              <path id="Path_1243" data-name="Path 1243" d="M8.223,0A8.223,8.223,0,1,1,0,8.223,8.223,8.223,0,0,1,8.223,0Z" fill="#4ba9d9"/>
+              <g id="Group_1071" data-name="Group 1071" transform="translate(4.83 4.866)">
+                <line id="Line_276" data-name="Line 276" y2="7.362" transform="translate(3.681)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+                <line id="Line_277" data-name="Line 277" x2="7.028" transform="translate(0 3.681)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="New_File" data-name="New 
+File" transform="translate(58.621 24.988)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">New </tspan><tspan x="0" y="22">File</tspan></text>
+      </g>
+      <g id="Group_3510" data-name="Group 3510" transform="translate(66.452 72.933) rotate(180)">
+        <line id="Line_371" data-name="Line 371" x2="9.69" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373" data-name="Line 373" y2="12" transform="translate(9.69 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3513" data-name="Group 3513" transform="translate(112.556 72.933) rotate(180)">
+        <line id="Line_371-2" data-name="Line 371" x2="9.69" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-2" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-2" data-name="Line 373" y2="12" transform="translate(9.69 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3511" data-name="Group 3511" transform="translate(73.427 43.495) rotate(-90)">
+        <line id="Line_371-3" data-name="Line 371" x2="5.606" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-3" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-3" data-name="Line 373" y2="12" transform="translate(5.606 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3512" data-name="Group 3512" transform="translate(73.427 93.145) rotate(-90)">
+        <line id="Line_371-4" data-name="Line 371" x2="5.606" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-4" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-4" data-name="Line 373" y2="12" transform="translate(5.606 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <text id="_4px" data-name="4px" transform="translate(51 5.453)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">4px</tspan></text>
+      <text id="_8px" data-name="8px" transform="translate(5 51.453)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">8px</tspan></text>
+      <text id="_8px-2" data-name="8px" transform="translate(171 49.453)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">8px</tspan></text>
+      <text id="_4px-2" data-name="4px" transform="translate(59 95.453)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">4px</tspan></text>
+    </g>
+    <g id="Group_3517" data-name="Group 3517" transform="translate(1460.906 8166)">
+      <g id="Group_3514" data-name="Group 3514" transform="translate(70.929 39.011)">
+        <g transform="matrix(1, 0, 0, 1, -434.84, -82.01)" filter="url(#Rectangle_1158-2)">
+          <rect id="Rectangle_1158-4" data-name="Rectangle 1158" width="113" height="60" rx="12" transform="translate(435 82)" fill="#4ba9d9"/>
+        </g>
+        <g id="Group_1593-2" data-name="Group 1593" transform="translate(14.745 10.432)">
+          <g id="Group_977-2" data-name="Group 977" transform="translate(0 0)">
+            <path id="Subtraction_21-2" data-name="Subtraction 21" d="M28.268,39.607H2.922a2.926,2.926,0,0,1-2.06-.849A2.882,2.882,0,0,1,0,36.716V2.891A2.882,2.882,0,0,1,.862.849,2.925,2.925,0,0,1,2.922,0H21.488V7.393A2.521,2.521,0,0,0,24.019,9.9H31.19V36.716a2.882,2.882,0,0,1-.862,2.042A2.926,2.926,0,0,1,28.268,39.607ZM30.18,8.461H24.017a1.073,1.073,0,0,1-1.078-1.068V1.066l7.24,7.395Z" transform="translate(0 0)" fill="#fff"/>
+            <g id="Group_1102-2" data-name="Group 1102" transform="translate(7.476 13.618)">
+              <path id="Path_1243-2" data-name="Path 1243" d="M8.223,0A8.223,8.223,0,1,1,0,8.223,8.223,8.223,0,0,1,8.223,0Z" fill="#4ba9d9"/>
+              <g id="Group_1071-2" data-name="Group 1071" transform="translate(4.83 4.866)">
+                <line id="Line_276-2" data-name="Line 276" y2="7.362" transform="translate(3.681)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+                <line id="Line_277-2" data-name="Line 277" x2="7.028" transform="translate(0 3.681)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="New_File-2" data-name="New 
+File" transform="translate(59.164 24.988)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">New </tspan><tspan x="0" y="22">File</tspan></text>
+      </g>
+      <text id="_28px" data-name="28px" transform="translate(73.094 6)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">28px</tspan></text>
+      <text id="_36px" data-name="36px" transform="translate(6.094 53)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">36px</tspan></text>
+      <g id="Group_3515" data-name="Group 3515" transform="translate(115.292 48.108) rotate(180)">
+        <line id="Line_371-5" data-name="Line 371" x2="27.794" transform="translate(0 7.141)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-5" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-5" data-name="Line 373" y2="12" transform="translate(27.794 1)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3516" data-name="Group 3516" transform="translate(69.477 88.408) rotate(-90)">
+        <line id="Line_371-6" data-name="Line 371" x2="37.647" transform="translate(0 7.141)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-6" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-6" data-name="Line 373" y2="12" transform="translate(37.647 1)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

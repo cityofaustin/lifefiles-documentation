@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="687" height="212" viewBox="0 0 687 212">
+  <defs>
+    <filter id="Path_1519" x="194" y="34" width="248" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1519-2" x="196" y="119" width="248" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3670" data-name="Group 3670" transform="translate(-1097 -8402)">
+    <rect id="Rectangle_137663" data-name="Rectangle 137663" width="687" height="212" transform="translate(1097 8402)" fill="#fff" opacity="0.2"/>
+    <g id="Group_3536" data-name="Group 3536" transform="translate(23012 -11508)">
+      <g id="Component_195" data-name="Component 195" transform="translate(-21712 19950)">
+        <g transform="matrix(1, 0, 0, 1, -203, -40)" filter="url(#Path_1519)">
+          <g id="Path_1519-3" data-name="Path 1519" transform="translate(203 40)" fill="#fff">
+            <path d="M22.5,0h185a22.5,22.5,0,0,1,0,45H22.5a22.5,22.5,0,0,1,0-45Z" stroke="none"/>
+            <path d="M 22.5 1 C 19.59709167480469 1 16.78152465820313 1.568325042724609 14.13153076171875 2.689174652099609 C 11.57144165039063 3.771999359130859 9.272064208984375 5.322353363037109 7.297210693359375 7.297206878662109 C 5.322357177734375 9.272060394287109 3.772003173828125 11.57144165039063 2.689178466796875 14.13152885437012 C 1.568328857421875 16.78152847290039 1 19.59708786010742 1 22.5 C 1 25.40291213989258 1.568328857421875 28.21847152709961 2.689178466796875 30.86846923828125 C 3.772003173828125 33.42855834960938 5.322357177734375 35.72794342041016 7.297210693359375 37.70279312133789 C 9.272064208984375 39.67764663696289 11.57144165039063 41.22800064086914 14.13153076171875 42.31082153320313 C 16.78152465820313 43.43167495727539 19.59709167480469 44 22.5 44 L 207.5 44 C 210.4029083251953 44 213.2184753417969 43.43167495727539 215.8684692382813 42.31082153320313 C 218.4285583496094 41.22800064086914 220.7279357910156 39.67764663696289 222.7027893066406 37.70279312133789 C 224.6776428222656 35.72794342041016 226.2279968261719 33.42855834960938 227.3108215332031 30.86846923828125 C 228.4316711425781 28.21847152709961 229 25.40291213989258 229 22.5 C 229 19.59708786010742 228.4316711425781 16.78152847290039 227.3108215332031 14.13152885437012 C 226.2279968261719 11.57144165039063 224.6776428222656 9.272060394287109 222.7027893066406 7.297206878662109 C 220.7279357910156 5.322353363037109 218.4285583496094 3.771999359130859 215.8684692382813 2.689174652099609 C 213.2184753417969 1.568325042724609 210.4029083251953 1 207.5 1 L 22.5 1 M 22.5 0 L 207.5 0 C 219.9264068603516 0 230 10.07358932495117 230 22.5 C 230 34.92641067504883 219.9264068603516 45 207.5 45 L 22.5 45 C 10.07359313964844 45 0 34.92641067504883 0 22.5 C 0 10.07358932495117 10.07359313964844 0 22.5 0 Z" stroke="none" fill="rgba(112,112,112,0.1)"/>
+          </g>
+        </g>
+        <text id="Security_Questions" data-name="Security Questions" transform="translate(50 28)" fill="#2362c7" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Security Questions</tspan></text>
+        <g id="Group_1729" data-name="Group 1729" transform="translate(-733.561 -1145.561)">
+          <circle id="Ellipse_495" data-name="Ellipse 495" cx="12" cy="12" r="12" transform="translate(929.56 1156.56)" fill="#f2f2f2"/>
+          <path id="Path_1486" data-name="Path 1486" d="M18.222,10.011l-6.509,6.509L8.774,13.582a.893.893,0,0,0-1.262,1.262l3.57,3.57a.893.893,0,0,0,1.262,0l7.14-7.14a.893.893,0,0,0-1.262-1.262Z" transform="translate(928.144 1154.379)" fill="#fff"/>
+        </g>
+        <path id="Path_1544" data-name="Path 1544" d="M-367.532,22.1c-9.256,0-9.256,2.309-9.256,2.309V32.08a11.536,11.536,0,0,0,5.9,10.059l3.361,1.887,3.361-1.9a11.537,11.537,0,0,0,5.9-10.059V24.4S-358.854,22.1-367.532,22.1Zm-.141,18a.986.986,0,0,1-.986-.986.986.986,0,0,1,.986-.986.986.986,0,0,1,.986.986A.986.986,0,0,1-367.673,40.094Zm3-6.752c-1.114.711-1.845,1.226-1.845,1.938a.869.869,0,0,1-.87.868.869.869,0,0,1-.87-.868c0-1.718,1.491-2.65,2.652-3.4.6-.376,1.41-.9,1.41-1.226,0-2.129-.238-3.76-3.192-3.76-3.1,0-3.192,2.337-3.192,2.6a.869.869,0,0,1-.87.868.869.869,0,0,1-.87-.868c0-1.5,1.033-4.339,4.932-4.339,4.932,0,4.932,3.853,4.932,5.5C-362.459,31.937-363.561,32.631-364.675,33.342Z" transform="translate(395.945 -10)" fill="#2362c7" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_3528" data-name="Group 3528" transform="translate(-21672.574 19952.334) rotate(90)">
+        <line id="Line_371" data-name="Line 371" x2="8.412" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373" data-name="Line 373" y2="11.25" transform="translate(8.412 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3529" data-name="Group 3529" transform="translate(-21707.834 19961.914)">
+        <line id="Line_371-2" data-name="Line 371" x2="13.01" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-2" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-2" data-name="Line 373" y2="11.25" transform="translate(13.01 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <text id="_12px" data-name="12px" transform="translate(-21703 19922)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">12px</tspan></text>
+      <text id="_20px" data-name="20px" transform="translate(-21772 19957)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">20px</tspan></text>
+      <g id="Group_3530" data-name="Group 3530" transform="translate(-21476.703 19963.035) rotate(90)">
+        <line id="Line_371-3" data-name="Line 371" x2="19.725" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-3" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-3" data-name="Line 373" y2="11.25" transform="translate(19.725 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <text id="_24px" data-name="24px" transform="translate(-21476 19959)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">24px</tspan></text>
+      <text id="_24px-2" data-name="24px" transform="translate(-21527 19921)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">24px</tspan></text>
+      <g id="Group_3531" data-name="Group 3531" transform="translate(-21512.191 19945.273)">
+        <line id="Line_371-4" data-name="Line 371" x2="19.725" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-4" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-4" data-name="Line 373" y2="11.25" transform="translate(19.725 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Group_3537" data-name="Group 3537" transform="translate(23014 -11512)">
+      <g id="Component_196" data-name="Component 196" transform="translate(-21712 20039)">
+        <g transform="matrix(1, 0, 0, 1, -205, -125)" filter="url(#Path_1519-2)">
+          <g id="Path_1519-4" data-name="Path 1519" transform="translate(205 125)" fill="#fff">
+            <path d="M22.5,0h185a22.5,22.5,0,0,1,0,45H22.5a22.5,22.5,0,0,1,0-45Z" stroke="none"/>
+            <path d="M 22.5 1 C 19.59709167480469 1 16.78152465820313 1.568325042724609 14.13153076171875 2.689174652099609 C 11.57144165039063 3.771999359130859 9.272064208984375 5.322353363037109 7.297210693359375 7.297206878662109 C 5.322357177734375 9.272060394287109 3.772003173828125 11.57144165039063 2.689178466796875 14.13152885437012 C 1.568328857421875 16.78152847290039 1 19.59708786010742 1 22.5 C 1 25.40291213989258 1.568328857421875 28.21847152709961 2.689178466796875 30.86846923828125 C 3.772003173828125 33.42855834960938 5.322357177734375 35.72794342041016 7.297210693359375 37.70279312133789 C 9.272064208984375 39.67764663696289 11.57144165039063 41.22800064086914 14.13153076171875 42.31082153320313 C 16.78152465820313 43.43167495727539 19.59709167480469 44 22.5 44 L 207.5 44 C 210.4029083251953 44 213.2184753417969 43.43167495727539 215.8684692382813 42.31082153320313 C 218.4285583496094 41.22800064086914 220.7279357910156 39.67764663696289 222.7027893066406 37.70279312133789 C 224.6776428222656 35.72794342041016 226.2279968261719 33.42855834960938 227.3108215332031 30.86846923828125 C 228.4316711425781 28.21847152709961 229 25.40291213989258 229 22.5 C 229 19.59708786010742 228.4316711425781 16.78152847290039 227.3108215332031 14.13152885437012 C 226.2279968261719 11.57144165039063 224.6776428222656 9.272060394287109 222.7027893066406 7.297206878662109 C 220.7279357910156 5.322353363037109 218.4285583496094 3.771999359130859 215.8684692382813 2.689174652099609 C 213.2184753417969 1.568325042724609 210.4029083251953 1 207.5 1 L 22.5 1 M 22.5 0 L 207.5 0 C 219.9264068603516 0 230 10.07358932495117 230 22.5 C 230 34.92641067504883 219.9264068603516 45 207.5 45 L 22.5 45 C 10.07359313964844 45 0 34.92641067504883 0 22.5 C 0 10.07358932495117 10.07359313964844 0 22.5 0 Z" stroke="none" fill="rgba(112,112,112,0.1)"/>
+          </g>
+        </g>
+        <text id="Security_Questions-2" data-name="Security Questions" transform="translate(50 28)" fill="#2362c7" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Security Questions</tspan></text>
+        <g id="Group_1729-2" data-name="Group 1729" transform="translate(-733.561 -1145.561)">
+          <circle id="Ellipse_495-2" data-name="Ellipse 495" cx="12" cy="12" r="12" transform="translate(929.56 1156.56)" fill="#f2f2f2"/>
+          <path id="Path_1486-2" data-name="Path 1486" d="M18.222,10.011l-6.509,6.509L8.774,13.582a.893.893,0,0,0-1.262,1.262l3.57,3.57a.893.893,0,0,0,1.262,0l7.14-7.14a.893.893,0,0,0-1.262-1.262Z" transform="translate(928.144 1154.379)" fill="#fff"/>
+        </g>
+        <path id="Path_1544-2" data-name="Path 1544" d="M-367.532,22.1c-9.256,0-9.256,2.309-9.256,2.309V32.08a11.536,11.536,0,0,0,5.9,10.059l3.361,1.887,3.361-1.9a11.537,11.537,0,0,0,5.9-10.059V24.4S-358.854,22.1-367.532,22.1Zm-.141,18a.986.986,0,0,1-.986-.986.986.986,0,0,1,.986-.986.986.986,0,0,1,.986.986A.986.986,0,0,1-367.673,40.094Zm3-6.752c-1.114.711-1.845,1.226-1.845,1.938a.869.869,0,0,1-.87.868.869.869,0,0,1-.87-.868c0-1.718,1.491-2.65,2.652-3.4.6-.376,1.41-.9,1.41-1.226,0-2.129-.238-3.76-3.192-3.76-3.1,0-3.192,2.337-3.192,2.6a.869.869,0,0,1-.87.868.869.869,0,0,1-.87-.868c0-1.5,1.033-4.339,4.932-4.339,4.932,0,4.932,3.853,4.932,5.5C-362.459,31.937-363.561,32.631-364.675,33.342Z" transform="translate(395.945 -10)" fill="#2362c7" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_3532" data-name="Group 3532" transform="translate(-21476.703 20052.035) rotate(90)">
+        <line id="Line_371-5" data-name="Line 371" x2="19.725" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-5" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-5" data-name="Line 373" y2="11.25" transform="translate(19.725 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <text id="_24px-3" data-name="24px" transform="translate(-21476 20048)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">24px</tspan></text>
+      <text id="_24px-4" data-name="24px" transform="translate(-21527 20010)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">24px</tspan></text>
+      <g id="Group_3533" data-name="Group 3533" transform="translate(-21512.191 20034.273)">
+        <line id="Line_371-6" data-name="Line 371" x2="19.725" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-6" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-6" data-name="Line 373" y2="11.25" transform="translate(19.725 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3534" data-name="Group 3534" transform="translate(-21675.201 20055.164) rotate(180)">
+        <line id="Line_371-7" data-name="Line 371" x2="15.994" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-7" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-7" data-name="Line 373" y2="11.25" transform="translate(15.994 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3542" data-name="Group 3542" transform="translate(-21663.26 20085.164) rotate(180)">
+        <line id="Line_371-8" data-name="Line 371" x2="8.936" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-8" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-8" data-name="Line 373" y2="11.25" transform="translate(8.936 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3543" data-name="Group 3543" transform="translate(-21517.26 20074.164) rotate(180)">
+        <line id="Line_371-9" data-name="Line 371" x2="8.936" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-9" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-9" data-name="Line 373" y2="11.25" transform="translate(8.936 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3535" data-name="Group 3535" transform="translate(-21689.703 20052.316) rotate(90)">
+        <line id="Line_371-10" data-name="Line 371" x2="18.443" transform="translate(0 10.593)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372-10" data-name="Line 372" y2="11.25" transform="translate(0 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373-10" data-name="Line 373" y2="11.25" transform="translate(18.443 5)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <text id="_16px" data-name="16px" transform="translate(-21703 20010)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">16px</tspan></text>
+      <text id="_12px-2" data-name="12px" transform="translate(-21690 20083)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">12px</tspan></text>
+      <text id="_12px-3" data-name="12px" transform="translate(-21548 20083)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">12px</tspan></text>
+      <text id="_20px-2" data-name="20px" transform="translate(-21772 20045)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">20px</tspan></text>
+    </g>
+  </g>
+</svg>

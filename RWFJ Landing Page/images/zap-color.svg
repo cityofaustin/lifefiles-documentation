@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons/zap-color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.8672178,15 L10.0077221,21.8759653 C9.88386786,22.8667994 11.1289683,23.4072879 11.7682213,22.6401844 L21.7682213,10.6401844 C22.3109937,9.98885748 21.8478376,9 21,9 L13.1327822,9 L13.9922779,2.12403473 C14.1161321,1.13320062 12.8710317,0.592712083 12.2317787,1.3598156 L2.23177872,13.3598156 C1.68900628,14.0111425 2.15216235,15 3,15 L10.8672178,15 Z M11.5846606,5.26045717 L11.0077221,9.87596527 C10.9331155,10.4728184 11.398502,11 12,11 L18.8649584,11 L12.4153394,18.7395428 L12.9922779,14.1240347 C13.0668845,13.5271816 12.601498,13 12,13 L5.13504161,13 L11.5846606,5.26045717 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/zap" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon">
+            <use fill="#2A8DF3" xlink:href="#path-1"></use>
+            <use fill="#968DF5" xlink:href="#path-1"></use>
+            <use fill="#9165F7" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

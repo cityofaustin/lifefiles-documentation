@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="687" height="212" viewBox="0 0 687 212">
+  <g id="Group_3663" data-name="Group 3663" transform="translate(-385 -7586)">
+    <rect id="Rectangle_137532" data-name="Rectangle 137532" width="687" height="212" transform="translate(385 7586)" fill="#fff" opacity="0.2"/>
+    <g id="Group_3459" data-name="Group 3459" transform="translate(22404 -11143)">
+      <g id="Group_3453" data-name="Group 3453" transform="translate(-21739.047 18816.297)">
+        <text id="DELETE_FILE" data-name="DELETE FILE" transform="translate(51.545 25)" fill="#d95868" font-size="26" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">DELETE FILE</tspan></text>
+        <g id="tools-and-utensils" transform="translate(0 2.153)">
+          <path id="Path_1127" data-name="Path 1127" d="M25.823,3.776h-7.7V1.086A1.086,1.086,0,0,0,17.04,0H9.868A1.086,1.086,0,0,0,8.782,1.086V3.776h-7.7A1.086,1.086,0,0,0,0,4.862V9.793A1.086,1.086,0,0,0,1.086,10.88h.892V35.337a1.086,1.086,0,0,0,1.086,1.086h20.78a1.086,1.086,0,0,0,1.086-1.086V10.88h.892a1.086,1.086,0,0,0,1.086-1.086V4.862a1.086,1.086,0,0,0-1.086-1.086Zm-14.869-1.6h5V3.76h-5ZM2.172,5.948H24.736V8.707H2.172Zm20.586,28.3H4.151V10.88H22.758V34.251Zm0,0" transform="translate(0.001 0)" fill="#d95868"/>
+          <path id="Path_1128" data-name="Path 1128" d="M249.985,211.6a1.086,1.086,0,0,0,1.086-1.086V195.172a1.086,1.086,0,0,0-2.173,0v15.344A1.086,1.086,0,0,0,249.985,211.6Zm0,0" transform="translate(-231.192 -180.279)" fill="#d95868"/>
+          <path id="Path_1129" data-name="Path 1129" d="M174.949,211.6a1.086,1.086,0,0,0,1.086-1.086V195.172a1.086,1.086,0,1,0-2.172,0v15.344A1.086,1.086,0,0,0,174.949,211.6Zm0,0" transform="translate(-161.495 -180.279)" fill="#d95868"/>
+          <path id="Path_1130" data-name="Path 1130" d="M99.911,211.6A1.086,1.086,0,0,0,101,210.516V195.172a1.086,1.086,0,1,0-2.172,0v15.344A1.086,1.086,0,0,0,99.911,211.6Zm0,0" transform="translate(-91.794 -180.279)" fill="#d95868"/>
+        </g>
+        <g id="Group_3458" data-name="Group 3458" transform="translate(28.739 42.308)">
+          <line id="Line_365" data-name="Line 365" x2="23.921" transform="translate(0 7.328)" fill="none" stroke="#1473e6" stroke-width="3"/>
+          <line id="Line_366" data-name="Line 366" y2="14.758" transform="translate(0 0)" fill="none" stroke="#1473e6" stroke-width="3"/>
+          <line id="Line_367" data-name="Line 367" y2="14.758" transform="translate(23.921 0)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="Group_3456" data-name="Group 3456" transform="translate(-21737.387 18799.998)">
+        <line id="Line_371" data-name="Line 371" x2="23.921" transform="translate(0 7.328)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_372" data-name="Line 372" y2="14.758" transform="translate(0 0)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_373" data-name="Line 373" y2="14.758" transform="translate(23.922 0)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <g id="Group_3457" data-name="Group 3457" transform="translate(-21760.672 18820.295)">
+        <line id="Line_374" data-name="Line 374" x2="32.768" transform="translate(7.43 0) rotate(90)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_375" data-name="Line 375" y2="14.758" transform="translate(14.758 0) rotate(90)" fill="none" stroke="#1473e6" stroke-width="3"/>
+        <line id="Line_376" data-name="Line 376" y2="14.758" transform="translate(14.758 32.77) rotate(90)" fill="none" stroke="#1473e6" stroke-width="3"/>
+      </g>
+      <text id="_20px" data-name="20px" transform="translate(-21726 18900)" fill="#6e6e6e" font-size="28" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="0">20px</tspan></text>
+      <text id="_20px-2" data-name="20px" transform="translate(-21763 18792)" fill="#6e6e6e" font-size="28" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="0">20px</tspan></text>
+      <text id="_28px" data-name="28px" transform="translate(-21832 18845)" fill="#6e6e6e" font-size="28" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="0">28px</tspan></text>
+    </g>
+  </g>
+</svg>
