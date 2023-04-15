@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.803" height="14.43" viewBox="0 0 14.803 14.43">
+  <g id="package" transform="translate(0 -6.444)">
+    <g id="Group_54" data-name="Group 54" transform="translate(0 9.743)">
+      <g id="Group_53" data-name="Group 53">
+        <path id="Path_144" data-name="Path 144" d="M14.75,120.673a.289.289,0,0,0-.236-.123H9.734a.289.289,0,0,0-.266.175L8.448,123.1H6.355l-1.02-2.372a.289.289,0,0,0-.266-.175H.289a.289.289,0,0,0-.272.387l.888,2.473v7.982a.289.289,0,0,0,.289.289H13.6a.289.289,0,0,0,.289-.289v-7.955l.9-2.5A.289.289,0,0,0,14.75,120.673ZM.7,121.128H4.879l.847,1.969H1.407ZM13.31,131.1H8.928v-4.959a.289.289,0,0,0-.578,0V131.1H1.483v-7.427H13.31ZM13.4,123.1H9.077l.847-1.969H14.1Z" transform="translate(0 -120.55)" fill="#5d3eff"/>
+      </g>
+    </g>
+    <g id="Group_56" data-name="Group 56" transform="translate(7.14 6.444)">
+      <g id="Group_55" data-name="Group 55">
+        <path id="Path_145" data-name="Path 145" d="M247.235,6.444a.289.289,0,0,0-.289.289V8.182a.289.289,0,1,0,.578,0V6.733A.289.289,0,0,0,247.235,6.444Z" transform="translate(-246.946 -6.444)" fill="#5d3eff"/>
+      </g>
+    </g>
+    <g id="Group_58" data-name="Group 58" transform="translate(8.477 7.473)">
+      <g id="Group_57" data-name="Group 57">
+        <path id="Path_146" data-name="Path 146" d="M294.725,42.12a.289.289,0,0,0-.409,0l-1.024,1.024a.289.289,0,0,0,.409.409l1.024-1.024A.289.289,0,0,0,294.725,42.12Z" transform="translate(-293.207 -42.035)" fill="#5d3eff"/>
+      </g>
+    </g>
+    <g id="Group_60" data-name="Group 60" transform="translate(4.723 7.473)">
+      <g id="Group_59" data-name="Group 59">
+        <path id="Path_147" data-name="Path 147" d="M164.883,43.145l-1.024-1.024a.289.289,0,0,0-.409.409l1.024,1.024a.289.289,0,1,0,.409-.409Z" transform="translate(-163.365 -42.036)" fill="#5d3eff"/>
+      </g>
+    </g>
+    <g id="Group_62" data-name="Group 62" transform="translate(8.349 13.678)">
+      <g id="Group_61" data-name="Group 61" transform="translate(0 0)">
+        <circle id="Ellipse_15" data-name="Ellipse 15" cx="0.289" cy="0.289" r="0.289" fill="#5d3eff"/>
+      </g>
+    </g>
+  </g>
+</svg>
