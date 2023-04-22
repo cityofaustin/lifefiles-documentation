@@ -3,8 +3,10 @@ Documentation sites for the LifeFiles project.
 
 ## Sites
 
-[rwjf](https://cityofaustin.github.io/lifefiles-documentation/rwjf) is the main site. [design-system](https://cityofaustin.github.io/lifefiles-documentation/design-system) is the secondary site.
+- [RWJF Landing Page](https://cityofaustin.github.io/lifefiles-documentation/rwjf) - The main site of LifeFiles.
+- [LifeFiles Design System](https://cityofaustin.github.io/lifefiles-documentation/design-system) - Secondary site on design of LifeFiles.
+- [LifeFiles Product Page](https://cityofaustin.github.io/lifefiles-documentation/product) - Secondary site of LifeFiles Product.
 
 ## Migration notes
 
-If hosting these sites elsewhere, the URLs for **Brand Book, Design System, Design Principles, Style Guide**, and **UI Library** need to be updated to point to the new hosting location for the LifeFiles Design System site. These can be found on **index.html** within the `rwjf` directory. Some other links may also need to be updated during the migration process.
+If hosting these sites elsewhere, any absolute urls that start like `https://cityofaustin.github.io/` need to be updated to point to the new hosting location of the site. These can be found on **index.html** within the `rwjf` directory. Some other links also need to be updated during the migration process.

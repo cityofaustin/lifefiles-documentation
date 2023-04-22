@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119.238" height="97.55" viewBox="0 0 119.238 97.55">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1200" data-name="Rectangle 1200" width="20" height="50" transform="translate(-572 5039)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1201" data-name="Rectangle 1201" width="20" height="50" transform="translate(-571 5039)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_1473" data-name="Path 1473" d="M-432.163,5488l-2.785,4.479,1.991,31.359,24.532.462.664-42.483-20.284-5.576Z" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1697" data-name="Group 1697" transform="translate(527 -5496)">
+    <g id="Group_1696" data-name="Group 1696" transform="translate(-18 482)">
+      <g id="Group_1691" data-name="Group 1691" transform="translate(0 94)">
+        <g id="Mask_Group_55" data-name="Mask Group 55" transform="translate(91 -119)" clip-path="url(#clip-path)">
+          <g id="Group_1685" data-name="Group 1685">
+            <path id="Path_1430" data-name="Path 1430" d="M49.2,47.1a1.884,1.884,0,0,0,.8.2,2.353,2.353,0,0,0,.8-.2c.7-.3,18.1-8.2,18.1-33.9a1.863,1.863,0,0,0-1.7-1.9c-10.1-1-15.8-5.5-15.9-5.6a1.96,1.96,0,0,0-2.5,0c-.1,0-5.7,4.6-15.9,5.6a1.863,1.863,0,0,0-1.7,1.9C31.1,38.9,48.5,46.8,49.2,47.1ZM50,15.9a9.7,9.7,0,1,1-9.7,9.7A9.709,9.709,0,0,1,50,15.9Z" transform="translate(-601.502 5036.75)" fill="#4ba9d9"/>
+            <path id="Path_1431" data-name="Path 1431" d="M47.6,29.7a1.69,1.69,0,0,0,2.4,0l4.9-4.9a1.7,1.7,0,0,0-2.4-2.4L48.8,26l-1.4-1.4A1.7,1.7,0,0,0,45,27Z" transform="translate(-601.502 5036.75)" fill="#4ba9d9"/>
+          </g>
+        </g>
+        <g id="Mask_Group_56" data-name="Mask Group 56" transform="translate(110 -119)" clip-path="url(#clip-path-2)">
+          <g id="Group_1686" data-name="Group 1686" transform="translate(-19)">
+            <path id="Path_1432" data-name="Path 1432" d="M49.2,47.1a1.884,1.884,0,0,0,.8.2,2.353,2.353,0,0,0,.8-.2c.7-.3,18.1-8.2,18.1-33.9a1.863,1.863,0,0,0-1.7-1.9c-10.1-1-15.8-5.5-15.9-5.6a1.96,1.96,0,0,0-2.5,0c-.1,0-5.7,4.6-15.9,5.6a1.863,1.863,0,0,0-1.7,1.9C31.1,38.9,48.5,46.8,49.2,47.1ZM50,15.9a9.7,9.7,0,1,1-9.7,9.7A9.709,9.709,0,0,1,50,15.9Z" transform="translate(-601.502 5036.75)" fill="#06c"/>
+            <path id="Path_1433" data-name="Path 1433" d="M47.6,29.7a1.69,1.69,0,0,0,2.4,0l4.9-4.9a1.7,1.7,0,0,0-2.4-2.4L48.8,26l-1.4-1.4A1.7,1.7,0,0,0,45,27Z" transform="translate(-601.502 5036.75)" fill="#06c"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1692" data-name="Group 1692" transform="translate(-511.502 5016.75)">
+        <path id="Path_1426" data-name="Path 1426" d="M95.2,57.9c-2.6-6.1-11.9-5.2-15.6-4.1a8.129,8.129,0,0,0-3.7,2.5c-1.1,1.1-10.8,11.2-10.8,11.2L53.5,71.9A5.512,5.512,0,0,0,50.3,79a5.382,5.382,0,0,0,5.1,3.5,4.333,4.333,0,0,0,1.9-.4l12.8-4.9a5.328,5.328,0,0,0,2-1.3l.9-1c.1,6.5,1,17.6,1.1,18.2a1.583,1.583,0,0,0,1.8,1.6H95.6a1.71,1.71,0,0,0,1.7-1.8C97.5,81,98,64.3,95.2,57.9Z" fill="#06c"/>
+        <circle id="Ellipse_482" data-name="Ellipse 482" cx="12" cy="12" r="12" transform="translate(71.8 26.2)" fill="#06c"/>
+        <circle id="Ellipse_483" data-name="Ellipse 483" cx="12" cy="12" r="12" transform="translate(4.2 26.2)" fill="#4ba9d9"/>
+        <path id="Path_1427" data-name="Path 1427" d="M53.3,60.9a5.5,5.5,0,0,0-7.4-2.4L35.7,63.7s-5.7-3.9-7.5-5.3c-1.2-.8-4.5-3.5-7.8-4.7-3.6-1.2-13-2-15.6,4.1C2,64.3,2.5,81,2.6,93a1.71,1.71,0,0,0,1.7,1.8H24c1.2,0,1.6-.7,1.8-1.6.1-.6,1.2-14.1,1.1-20.1V71l5.2,3.5a5.614,5.614,0,0,0,3.1.9,5.421,5.421,0,0,0,2.5-.6l13.1-6.7A5.254,5.254,0,0,0,53.3,60.9Z" fill="#4ba9d9"/>
+      </g>
+    </g>
+    <g id="Mask_Group_59" data-name="Mask Group 59" transform="translate(0 63)" clip-path="url(#clip-path-3)">
+      <path id="Path_1472" data-name="Path 1472" d="M29.52,31.861c-3.442,5.819-8.859,4.375-12.6,2.344l-1.529-17.98C14.836,9.087,11.765,4.3,4.652,3.735c-.623,0-1.966.016-2.589.09C1.623,3.9.4,3.988,0,4.1c6.6-3.7,14.025.592,14.025.592,12.2-13.248,17.09,5.761,17.127,5.8C25.291,16.533,34.792,22.851,29.52,31.861Z" transform="matrix(0.999, 0.035, -0.035, 0.999, -446.289, 5483.25)" fill="#06c"/>
+    </g>
+  </g>
+</svg>
