@@ -3,7 +3,7 @@ Documentation sites for the LifeFiles project.
 
 ## Sites
 
-[rwjf](https://acarnagey.github.io/lifefiles-documentation/rwjf) is the main site. [design-system](https://acarnagey.github.io/lifefiles-documentation/design-system) is the secondary site.
+[rwjf](https://cityofaustin.github.io/lifefiles-documentation/rwjf) is the main site. [design-system](https://cityofaustin.github.io/lifefiles-documentation/design-system) is the secondary site.
 
 ## Migration notes
 
