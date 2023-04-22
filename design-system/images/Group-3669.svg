@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="687" height="212" viewBox="0 0 687 212">
+  <g id="Group_3669" data-name="Group 3669" transform="translate(-390 -8402)">
+    <rect id="Rectangle_137668" data-name="Rectangle 137668" width="687" height="212" transform="translate(390 8402)" fill="#fff" opacity="0.2"/>
+    <g id="Group_3444" data-name="Group 3444" transform="translate(547 8463.102)">
+      <g id="Group_2759" data-name="Group 2759" transform="translate(0 0)">
+        <rect id="Rectangle_865" data-name="Rectangle 865" width="86.228" height="86.228" rx="11" transform="translate(0 0)" fill="#e8ecf1"/>
+      </g>
+      <path id="noun_Bell_1334836" d="M62.683,51.235l-1.922-3.925a18.521,18.521,0,0,1-1.874-8.1V25.963A19.935,19.935,0,0,0,38.734,7.28h-.416A19.9,19.9,0,0,0,18.172,25.957v13.25A18.515,18.515,0,0,1,16.264,47.3l-1.929,3.939A4.076,4.076,0,0,0,18.009,57.1H29.717a8.847,8.847,0,0,0,8.792,8.2h0a8.792,8.792,0,0,0,8.764-8.2H59.009a4.076,4.076,0,0,0,3.673-5.868ZM42.789,60.811a6.028,6.028,0,0,1-4.28,1.779h0A6.126,6.126,0,0,1,32.45,57.1h12.1A6.029,6.029,0,0,1,42.789,60.811Zm17.372-7.063A1.364,1.364,0,0,1,59,54.386H18a1.359,1.359,0,0,1-1.227-1.956l1.97-3.912a21.237,21.237,0,0,0,2.16-9.291V26.106a17.181,17.181,0,0,1,17.413-16.1h.423a17.163,17.163,0,0,1,17.4,16.1V39.227a21.25,21.25,0,0,0,2.167,9.291l1.922,3.925A1.354,1.354,0,0,1,60.161,53.747Z" transform="translate(4.58 7.609)" fill="#95a3b9" stroke="#95a3b9" stroke-width="0.6"/>
+    </g>
+    <g id="Group_3445" data-name="Group 3445" transform="translate(701.877 8465.598)">
+      <g id="Group_2759-2" data-name="Group 2759" transform="translate(0 0)">
+        <rect id="Rectangle_865-2" data-name="Rectangle 865" width="85.402" height="85.402" rx="11" transform="translate(0)" fill="#90afe2"/>
+      </g>
+      <g id="Group_3280" data-name="Group 3280" transform="translate(-521.877 -5624.598)">
+        <line id="Line_28" data-name="Line 28" x2="38.663" transform="translate(550.122 5653.157)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+        <line id="Line_29" data-name="Line 29" x2="38.663" transform="translate(550.122 5667.53)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+        <line id="Line_30" data-name="Line 30" x2="38.663" transform="translate(550.122 5681.478)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+        <circle id="Ellipse_400" data-name="Ellipse 400" cx="2.5" cy="2.5" r="2.5" transform="translate(540 5651)" fill="#fff"/>
+        <circle id="Ellipse_401" data-name="Ellipse 401" cx="2.5" cy="2.5" r="2.5" transform="translate(540 5665)" fill="#fff"/>
+        <circle id="Ellipse_402" data-name="Ellipse 402" cx="2.5" cy="2.5" r="2.5" transform="translate(540 5679)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_3446" data-name="Group 3446" transform="translate(12699 9606)">
+      <g id="Group_963" data-name="Group 963" transform="translate(-11843 -1143)">
+        <rect id="Rectangle_63" data-name="Rectangle 63" width="85" height="85" rx="11" fill="#1473e6"/>
+        <g id="Group_1393" data-name="Group 1393" transform="translate(21.25 21.856)">
+          <g id="Rectangle_65" data-name="Rectangle 65" fill="none" stroke="#fcfcfc" stroke-width="3.5">
+            <rect width="19.265" height="19.265" rx="2" stroke="none"/>
+            <rect x="1.75" y="1.75" width="15.765" height="15.765" rx="0.25" fill="none"/>
+          </g>
+          <g id="Rectangle_67" data-name="Rectangle 67" transform="translate(0 23.394)" fill="none" stroke="#fcfcfc" stroke-width="3.5">
+            <rect width="19.265" height="19.265" rx="2" stroke="none"/>
+            <rect x="1.75" y="1.75" width="15.765" height="15.765" rx="0.25" fill="none"/>
+          </g>
+          <g id="Rectangle_68" data-name="Rectangle 68" transform="translate(23.394 23.394)" fill="none" stroke="#fcfcfc" stroke-width="3.5">
+            <rect width="19.265" height="19.265" rx="2" stroke="none"/>
+            <rect x="1.75" y="1.75" width="15.765" height="15.765" rx="0.25" fill="none"/>
+          </g>
+          <g id="Rectangle_66" data-name="Rectangle 66" transform="translate(23.394)" fill="none" stroke="#fcfcfc" stroke-width="3.5">
+            <rect width="19.265" height="19.265" rx="2" stroke="none"/>
+            <rect x="1.75" y="1.75" width="15.765" height="15.765" rx="0.25" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

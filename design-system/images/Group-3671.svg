@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="687" height="212" viewBox="0 0 687 212">
+  <g id="Group_3671" data-name="Group 3671" transform="translate(-385 -8762)">
+    <rect id="Rectangle_137651" data-name="Rectangle 137651" width="687" height="212" transform="translate(385 8762)" fill="#fff" opacity="0.2"/>
+    <g id="Group_3551" data-name="Group 3551" transform="translate(0 4)">
+      <g id="Group_3417" data-name="Group 3417" transform="translate(20219 -4218)">
+        <g id="Group_3125" data-name="Group 3125" transform="translate(-19695 13030)">
+          <text id="Private_Key" data-name="Private Key" transform="translate(0 31)" fill="rgba(72,72,72,0.77)" font-size="24" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Private Key</tspan></text>
+          <g id="Rectangle_1187" data-name="Rectangle 1187" transform="translate(0 37)" fill="#ececec" stroke="rgba(112,112,112,0.27)" stroke-width="1">
+            <rect width="350" height="55" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="349" height="54" rx="7.5" fill="none"/>
+          </g>
+          <text id="_1B23n2JDHk12N312J3bdn..." data-name="1B23n2JDHk12N312J3bdn..." transform="translate(22 72)" fill="rgba(72,72,72,0.77)" font-size="23" font-family="Montserrat-Regular, Montserrat" opacity="0"><tspan x="0" y="0">1B23n2JDHk12N312J3bdn...</tspan></text>
+        </g>
+        <g id="Group_3126" data-name="Group 3126" transform="translate(-19414.102 13067.453)">
+          <path id="Rectangle_1360" data-name="Rectangle 1360" d="M0,0H64a5,5,0,0,1,5,5V50a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0.102 -0.453)" fill="#2362c7"/>
+          <text id="Paste_Key" data-name="Paste Key" transform="translate(6.102 46.547)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Paste Key</tspan></text>
+          <g id="noun_clipboard_168951" transform="translate(25.292 7.803)">
+            <g id="Group_3545" data-name="Group 3545" transform="translate(0 -2)">
+              <g id="Group_2533" data-name="Group 2533">
+                <path id="Path_1942" data-name="Path 1942" d="M30.9,5.692H28.669V5.629a.946.946,0,0,0-.943-.943H26.091a2.537,2.537,0,0,0-4.9,0h-1.7a.946.946,0,0,0-.943.943v.063H16.315A2.522,2.522,0,0,0,13.8,8.207V26.753a2.522,2.522,0,0,0,2.515,2.515H30.932a2.522,2.522,0,0,0,2.515-2.515V8.207A2.57,2.57,0,0,0,30.9,5.692ZM23.639,4.686a.66.66,0,1,1-.66.66A.627.627,0,0,1,23.639,4.686Zm7.89,22.036a.631.631,0,0,1-.629.629H16.315a.631.631,0,0,1-.629-.629V8.207a.631.631,0,0,1,.629-.629h2.232V7.61a.946.946,0,0,0,.943.943h8.267A.946.946,0,0,0,28.7,7.61V7.578h2.232a.631.631,0,0,1,.629.629V26.722Z" transform="translate(-13.8 -2.8)" fill="#fff"/>
+              </g>
+              <g id="Group_2534" data-name="Group 2534" transform="translate(4.119 14.178)">
+                <path id="Path_1943" data-name="Path 1943" d="M37.336,49.786H27.843a.943.943,0,1,1,0-1.886h9.525a.926.926,0,0,1,.943.943A.953.953,0,0,1,37.336,49.786Z" transform="translate(-26.9 -47.9)" fill="#fff"/>
+              </g>
+              <g id="Group_2535" data-name="Group 2535" transform="translate(4.119 9.115)">
+                <path id="Path_1944" data-name="Path 1944" d="M37.336,33.686H27.843a.943.943,0,0,1,0-1.886h9.525a.926.926,0,0,1,.943.943A.953.953,0,0,1,37.336,33.686Z" transform="translate(-26.9 -31.8)" fill="#fff"/>
+              </g>
+              <g id="Group_2536" data-name="Group 2536" transform="translate(4.119 19.238)">
+                <path id="Path_1945" data-name="Path 1945" d="M37.336,65.886H27.843a.943.943,0,1,1,0-1.886h9.525a.926.926,0,0,1,.943.943A.953.953,0,0,1,37.336,65.886Z" transform="translate(-26.9 -64)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="_20px" data-name="20px" transform="translate(-19342 13074)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">20px</tspan></text>
+        <text id="_4px" data-name="4px" transform="translate(-19401 13126)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">4px</tspan></text>
+        <text id="_4px-2" data-name="4px" transform="translate(-19401 13035)" fill="#6e6e6e" font-size="23" font-family="Montserrat-Medium, Montserrat" font-weight="500" opacity="0.5"><tspan x="0" y="22">4px</tspan></text>
+      </g>
+      <g id="Group_3546" data-name="Group 3546" transform="translate(854.443 8880.057) rotate(-90)">
+        <line id="Line_371" data-name="Line 371" x2="19.153" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373" data-name="Line 373" y2="12" transform="translate(19.153 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3552" data-name="Group 3552" transform="translate(871.02 8877.48) rotate(180)">
+        <line id="Line_371-2" data-name="Line 371" x2="19.153" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-2" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-2" data-name="Line 373" y2="12" transform="translate(19.153 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3548" data-name="Group 3548" transform="translate(833.443 8854.182) rotate(-90)">
+        <line id="Line_371-3" data-name="Line 371" x2="4.278" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-3" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-3" data-name="Line 373" y2="12" transform="translate(4.278 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3549" data-name="Group 3549" transform="translate(833.443 8887.182) rotate(-90)">
+        <line id="Line_371-4" data-name="Line 371" x2="4.278" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-4" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-4" data-name="Line 373" y2="12" transform="translate(4.278 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+      <g id="Group_3550" data-name="Group 3550" transform="translate(833.443 8902.182) rotate(-90)">
+        <line id="Line_371-5" data-name="Line 371" x2="4.278" transform="translate(0 7.141)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_372-5" data-name="Line 372" y2="12" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="3"/>
+        <line id="Line_373-5" data-name="Line 373" y2="12" transform="translate(4.278 1)" fill="none" stroke="#fff" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
