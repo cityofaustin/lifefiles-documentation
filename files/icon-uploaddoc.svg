@@ -1,0 +1,24 @@
+<svg id="Group_3233" data-name="Group 3233" xmlns="http://www.w3.org/2000/svg" width="76.938" height="97.698" viewBox="0 0 76.938 97.698">
+  <g id="Group_977" data-name="Group 977" transform="translate(0 0)">
+    <path id="Subtraction_21" data-name="Subtraction 21" d="M69.729,97.7H7.209A7.218,7.218,0,0,1,2.127,95.6,7.108,7.108,0,0,1,0,90.567V7.131A7.109,7.109,0,0,1,2.127,2.094,7.215,7.215,0,0,1,7.209,0h45.8V18.237a6.219,6.219,0,0,0,6.243,6.188H76.938V90.567A7.11,7.11,0,0,1,74.81,95.6,7.217,7.217,0,0,1,69.729,97.7Zm4.716-76.827h-15.2a2.648,2.648,0,0,1-2.658-2.635V2.63L74.444,20.87Z" transform="translate(0 0)" fill="#484848"/>
+    <g id="Group_1102" data-name="Group 1102" transform="translate(18.441 33.592)">
+      <path id="Path_1243" data-name="Path 1243" d="M20.283,0A20.283,20.283,0,1,1,0,20.283,20.283,20.283,0,0,1,20.283,0Z" fill="#484848"/>
+      <g id="Group_1071" data-name="Group 1071" transform="translate(11.914 12.003)">
+        <line id="Line_276" data-name="Line 276" y2="18.161" transform="translate(9.08)" fill="none"/>
+        <line id="Line_277" data-name="Line 277" x2="17.335" transform="translate(0 9.08)" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1834" data-name="Group 1834" transform="translate(17.579 27.964)">
+    <g id="Group_1032" data-name="Group 1032" transform="translate(10.058)">
+      <g id="Group_1031" data-name="Group 1031" transform="translate(0)">
+        <path id="Path_1134" data-name="Path 1134" d="M151.113,12.558,140.841.515a1.44,1.44,0,0,0-2.207,0L128.362,12.558a1.532,1.532,0,0,0-.232,1.614,1.467,1.467,0,0,0,1.335.882h5.87v19.57A1.487,1.487,0,0,0,136.8,36.13h5.87a1.487,1.487,0,0,0,1.467-1.505V15.054h5.87a1.462,1.462,0,0,0,1.335-.882A1.531,1.531,0,0,0,151.113,12.558Z" transform="translate(-127.998 0)" fill="#fff" stroke="#484848" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_1034" data-name="Group 1034" transform="translate(0 36.203)">
+      <g id="Group_1033" data-name="Group 1033">
+        <path id="Path_1135" data-name="Path 1135" d="M52.742,352v9.032H21.653V352H16v12.043a2.922,2.922,0,0,0,2.826,3.011H55.568a2.92,2.92,0,0,0,2.826-3.011V352Z" transform="translate(-16 -352)" fill="#fff" stroke="#484848" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
